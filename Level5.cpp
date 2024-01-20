@@ -2431,16 +2431,16 @@ int main ()
  srand ((unsigned)time(NULL));
 
         int arr[100];
-        int length;
+        int lengthhhh;
         cout<<"enter the length \n";
-        cin>>length;
+        cin>>lengthhhh;
         //////////
-        fillArray(arr,length);
-        coppyOddNumber(arr,length);
+        fillArray(arr,lengthhhh);
+        coppyOddNumber(arr,lengthhhh);
 
 
        
-
+/////////////hiiiiiiiiiiiiiiiiiii
 
         
 

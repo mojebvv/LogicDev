@@ -1,0 +1,1 @@
+cout<<"Total bill = "<<n1<<endl;
